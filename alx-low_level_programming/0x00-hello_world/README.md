@@ -1,1 +1,1 @@
-C - Hello, World
+this is the first c programing
