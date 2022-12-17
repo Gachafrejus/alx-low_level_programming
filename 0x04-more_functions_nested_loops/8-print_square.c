@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_square - function that prints a square
  * @size: size of both widith and lenght
@@ -18,6 +19,7 @@ else
 for (co = 1; so <= size; co++)
 {
 _putchar('#');
+
 for (ro = 2; ro <= size; ro++)
 {
 _putchar('#');
