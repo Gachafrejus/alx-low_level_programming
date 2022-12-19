@@ -1,4 +1,7 @@
-#include MAIN_H
+#ifndef MAIN_H
+#define MAIN_H
+
+#include <stdio.h>
 
 
 void reset_to_98(int *n);
@@ -11,4 +14,6 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 int _strlen(char *s);
 char *_strcpy(char *dest, char *src);
+
+#endif /* MAIN_H */
 
