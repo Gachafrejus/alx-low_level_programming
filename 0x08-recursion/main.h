@@ -1,12 +1,5 @@
 #ifndef MAIN_H
-#define MAIN_H
-
-/**
- * File: main.h
- * Auth: me
- * Description: Header file containing prototypesfor all functions
- *              used in the 0x07-recursion directory
- */
+#define MAIN_
 
 int putchar(char c);
 void _puts_recursion(char *s);
